@@ -8,4 +8,4 @@ on:
 jobs:
   call-docker-build:
     #uses: ./.github/workflows/build-docker.yml
-    uses: ./demo/.github/workflows/build-docker.yml
+    uses: ./demo/.github/workflows/builddocker.yml
